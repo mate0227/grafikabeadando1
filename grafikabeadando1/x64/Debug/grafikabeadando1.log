@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\kissm\source\repos\grafikabeadando1\grafikabeadando1\Source.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\kissm\source\repos\grafikabeadando1\grafikabeadando1\Source.cpp(164,18): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\kissm\source\repos\grafikabeadando1\grafikabeadando1\Source.cpp(167,18): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  grafikabeadando1.vcxproj -> C:\Users\kissm\source\repos\grafikabeadando1\x64\Debug\grafikabeadando1.exe
